@@ -1,0 +1,32 @@
+.navbar-brand {
+    font-family: 'Dancing Script', cursive;
+}
+
+.navbar {
+    background-color: #222222;
+    
+}
+
+.nav-item:hover,
+.nav-item a:hover {
+    background-color: #ffc107;
+    color: #222222;
+}
+
+.container a,
+.nav-link.active,
+.nav-item {
+    color: #fff;
+}
+
+.dropdown-menu {
+    background-color: #222222;
+}
+
+.navbar-toggler {
+    background-color: #fff;
+}
+
+.nav-pills.active {
+    background-color: #ffc107;
+}
